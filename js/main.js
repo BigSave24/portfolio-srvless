@@ -5,6 +5,8 @@ import ExampleWork from './example-work';
 const myWork = [
   {
     'title': "Tribute Website",
+    'href': "https://example.com",
+    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     'image': {
       'desc': "screenshot of my Bob Marley tribute website",
       'src': "images/project1.png",
@@ -13,6 +15,8 @@ const myWork = [
   },
   {
     'title': "Sports Catalog Web Application",
+    'href': "https://example.com",
+    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     'image': {
       'desc': "screenshot of my sports catalog web app",
       'src': "images/project2.png",
@@ -21,6 +25,8 @@ const myWork = [
   },
   {
     'title': "Color Coded Web Application",
+    'href': "https://example.com",
+    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     'image': {
       'desc': "screenshot of my color coded web app",
       'src': "images/project3.png",
